@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934349062381",
+    "project_id": "examen2nativas",
+    "storage_bucket": "examen2nativas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934349062381:android:f606be12376d4ed659cce4",
+        "android_client_info": {
+          "package_name": "com.example.examen2nativas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5PWgU9J3v3CythQsFi3DB1oTw3OL6fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
